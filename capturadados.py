@@ -49,7 +49,7 @@ if not df_final.empty:
     # 2. CARGA DE DADOS NO SQL SERVER
     # ==============================================================================
     
-    ## DADOS DE CONEXÃO - EDITE COM AS SUAS INFORMAÇÕES ##
+    
     server_name = 'MATHEUSNASC\SQLEXPRESS' 
     database_name = 'PORTFOLIOBCB'
     
